@@ -33,7 +33,7 @@ Formatted expenses:
 2024-01-05 | Food | Groceries | $42.50
 ```
 
-## Comparing the three styles (easy English)
+## Comparing the three styles 
 
 **1. Imperative (Part B)**  
 This style was easy for me when the list was small. I could follow the steps like a recipe: start numbers at zero, go through the list, add values, print. If the list had **100,000** rows, the program would still work in theory, but one long file is harder to read and harder to fix when there is a bug. I would need more comments and more care.
